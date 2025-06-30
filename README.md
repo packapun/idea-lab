@@ -3,3 +3,4 @@ A repo where I can post ideas and ask an LLM to expand on it, develop a prototyp
 
 Todo:
 - Use GH actions as the trigger
+- Explore options like Fly.io and Vercel

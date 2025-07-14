@@ -1,17 +1,4 @@
-Your current README file contains the following minimal details:
 
-```markdown
-# idea-lab
-A repo where I can post ideas and ask an LLM to expand on it, develop a prototype and do market research
-
-Todo:
-- Use GH actions as the trigger
-- Explore options like Fly.io and Vercel
-```
-
-To enhance it, consider adding the following sections and details:
-
-### Suggested Additions to Your README
 
 #### 1. **Project Overview**
 Expand on the purpose of the repository. For example:

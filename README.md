@@ -1,5 +1,5 @@
 
-
+# Idea Lab
 #### 1. **Project Overview**
 Expand on the purpose of the repository. For example:
 - What is the core idea behind "idea-lab"?
